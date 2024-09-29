@@ -1,7 +1,8 @@
-<b><h1>Wyvern Air</h1></b>
-    <h2>Terms and Conditions</h2>
+
+<h1><b>Wyvern Air</b></h1>
+<h2>Terms and Conditions</h2>
     <p>Last updated: September 29, 2024</p>
-    <p>
+   <p>
 <br>
 <h3>Agreement between User and Wyvernair.com</h3>
 Terms and Conditions Agreement between User and Wyvernair.com Welcome to Wyvernair.com. The Wyvernair.com website (the "Site") is comprised of various web pages operated by Wyvern Air ("Wyvern"). Wyvernair.com is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein (the "Terms"). 
