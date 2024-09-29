@@ -1,3 +1,4 @@
+<pre>
 <p><h1><b>Wyvern Air</b></h1></p>
 <h2>Terms and Conditions</h2>
     <p>Last updated: September 29, 2024</p>
@@ -40,3 +41,4 @@ Wyvern's performance of this agreement is subject to existing laws and legal pro
 Changes to Terms Wyvern reserves the right, in its sole discretion, to change the Terms under which Wyvernair.com is offered. The most current version of the Terms will supersede all previous versions. Wyvern encourages you to periodically review the Terms to stay informed of our updates. Contact Us Wyvern welcomes your questions or comments regarding the Terms: 
 
 Wyvern Air Helper, Utah Helper, Utah 84526 Email Address: Westernwyvern08@gmail.com Telephone number: (435)-650-0308 Effective as of September 29, 2024</p>
+</pre>
